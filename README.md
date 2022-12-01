@@ -8,4 +8,4 @@
 - [Resultado](https://github.com/danielocabrera790/ProyectoPython/blob/main/resultados/ejer2.png)
 2. [Cadenas: Virus](https://github.com/danielocabrera790/ProyectoPython/blob/main/ejercicio2.py)
 - [Resultado](https://github.com/danielocabrera790/ProyectoPython/blob/main/resultados/pro1.png)
-3. [Referencias:](https://www.python.org/)
+3. [Referencias](https://www.python.org/)
